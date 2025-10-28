@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\bin\Debug\net9.0\SecondoProgetto.exe
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\bin\Debug\net9.0\SecondoProgetto.deps.json
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\bin\Debug\net9.0\SecondoProgetto.runtimeconfig.json
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\bin\Debug\net9.0\SecondoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\bin\Debug\net9.0\SecondoProgetto.pdb
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\SecondoProgetto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\SecondoProgetto.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\SecondoProgetto.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\SecondoProgetto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\SecondoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\refint\SecondoProgetto.dll
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\SecondoProgetto.pdb
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\SecondoProgetto.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\video.games\SecondoProgetto\obj\Debug\net9.0\ref\SecondoProgetto.dll
